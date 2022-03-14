@@ -1,0 +1,11 @@
+akun TU
+
+username : tatausaha
+password : tatausaha
+--------------------
+
+akun Kepala Sekolah
+
+username : kepsek
+password : kepsek
+
